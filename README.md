@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+## Hi there 👋
 
 - 🔭 I’m currently working on Data Ananlysis！！
 - 🌱 I’m currently learning things ralated to 👆.
